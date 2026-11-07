@@ -3,6 +3,7 @@ const html = `<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-site-verification" content="C4qwKk2Q7jfqa3t_M8BfdBLeMWCw7l52AEkn_d96NPA" />
 <title>Tekken 3's New Generation: The Fighters Who Replaced the Old Guard</title>
 <meta name="description" content="Tekken 3 jumped nineteen years forward and replaced most of its own cast. Meet the newcomers, the successors under familiar names, and the few veterans who survived the cut.">
 <style>
