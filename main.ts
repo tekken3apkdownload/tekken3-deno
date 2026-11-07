@@ -58,13 +58,13 @@ A: No. His son, Forest Law, fights in his place — one of several successors wh
 
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://tekken3-guide.deno.dev/</loc></url>
+  <url><loc>https://tekken3-guide.tekken3apkdownload.deno.net/</loc></url>
 </urlset>`;
 
 const robots = `User-agent: *
 Allow: /
 
-Sitemap: https://tekken3-guide.deno.dev/sitemap.xml
+Sitemap: https://tekken3-guide.tekken3apkdownload.deno.net/sitemap.xml
 `;
 
 Deno.serve((req) => {
